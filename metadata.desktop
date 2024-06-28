@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=Pwn Linux
+Description=Pwn Linux SDDM theme
+Author=Tohur
+Copyright=(c) 2024
+License=gpl3.0
+Type=sddm-theme
+Version=0.1.6
+Website=https://github.com/Pwn-Linux/Pwn-Linux-sddm-theme
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=Pwn-Linux
+Theme-API=2.0
