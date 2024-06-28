@@ -6,7 +6,7 @@
 // - SDDM Team https://github.com/sddm/sddm
 import QtQuick 2.8
 import QtQuick.Controls 2.1
-import QtGraphicalEffects 1.0
+import Qt5Compat.GraphicalEffects
 import QtQuick.Layouts 1.2
 import org.kde.plasma.core 2.0 as PlasmaCore
 import "components"
