@@ -1,5 +1,5 @@
 [SddmGreeterTheme]
-Name=Pwn Linux
+Name=Pwn Linux Dark
 Description=Pwn Linux SDDM theme
 Author=Tohur
 Copyright=(c) 2024
@@ -10,5 +10,5 @@ Website=https://github.com/Pwn-Linux/Pwn-Linux-sddm-theme
 Screenshot=Preview.jpg
 MainScript=Main.qml
 ConfigFile=theme.conf
-Theme-Id=Pwn-Linux
+Theme-Id=Pwn-Linux-Dark
 Theme-API=2.0
